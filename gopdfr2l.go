@@ -1,8 +1,8 @@
 package main
 
 import (
-    "github.com/hhrutter/pdfcpu/pkg/pdfcpu"
-    "github.com/hhrutter/pdfcpu/pkg/api"
+    "github.com/pdfcpu/pdfcpu/pkg/pdfcpu"
+    "github.com/pdfcpu/pdfcpu/pkg/api"
     "flag"
 	"fmt"
 	"os"
